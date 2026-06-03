@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🔳 Gerador de QR Codes
 
-## Getting Started
+Um gerador de QR Codes desenvolvido com Next.js, React e TypeScript, permitindo personalizar cores, adicionar logotipos e baixar QR Codes de forma rápida e intuitiva.
 
-First, run the development server:
+## 🛠️ Tecnologias Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Next.js:** Estrutura da aplicação e renderização otimizada.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**React:** Construção da interface e gerenciamento de componentes.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**TypeScript:** Tipagem estática para maior segurança e manutenção do código.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**CSS3:** Estilização da interface, responsividade e experiência visual moderna.
 
-## Learn More
+## 🎯 Objetivo
 
-To learn more about Next.js, take a look at the following resources:
+Este projeto foi desenvolvido com o objetivo de praticar conceitos modernos de desenvolvimento Front-End utilizando React, Next.js e TypeScript, explorando manipulação de estados, upload de arquivos, personalização visual e geração dinâmica de QR Codes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Funcionalidades
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Geração de QR Codes em tempo real.
+- Personalização da cor principal do QR Code.
+- Personalização da cor de fundo.
+- Upload de logotipos personalizados.
+- Ajuste do tamanho da logo.
+- Download do QR Code em formato PNG.
+- Interface moderna e responsiva.
 
-## Deploy on Vercel
+## 🔗 Acesse o Projeto
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Deploy:**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+https://qrcode-generator-rnx.vercel.app
+
+## 👨‍💻 Autor
+
+**Renan Ribeiro**
+
+- LinkedIn: https://www.linkedin.com/in/rnxribeiro/
+
+---
+
+Projeto desenvolvido para fins de estudo e aprimoramento das habilidades em desenvolvimento Front-End.
